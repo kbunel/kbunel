@@ -1,19 +1,22 @@
 ### Hi there 👋
 
 Email: kevinbunel@gmail.com
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/kevin-bunel-435b6a62)
 ![](https://komarev.com/ghpvc/?username=kbunel&color=0e75b6&style=for-the-badge)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/kevin-bunel-435b6a62)
-
 # 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Nuxt](https://img.shields.io/badge/nuxt-%23000000.svg?style=for-the-badge&logo=nuxtdotjs&logoColor=green)
+![Vue.js](https://img.shields.io/badge/Vue.js-%2300c27f.svg?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TestCafé](https://img.shields.io/badge/testcafe-%2333add9.svg?style=for-the-badge&logo=testcafe&logoColor=white)
+![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
+![Doctrine](https://img.shields.io/badge/doctrine-%23f17d35.svg?style=for-the-badge)
+![API Platform](https://img.shields.io/badge/api%20platform-%232ec1c1.svg?style=for-the-badge)
+![Apollo GraphQL](https://img.shields.io/badge/Apollo%20GraphQL-%236b24ea.svg?style=for-the-badge&logo=apollographql&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
