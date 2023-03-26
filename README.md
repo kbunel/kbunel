@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 Email: kevinbunel@gmail.com
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/kevin-bunel-435b6a62)
+
 ![](https://komarev.com/ghpvc/?username=kbunel&color=0e75b6&style=for-the-badge)
 
 # 💻 Tech Stack:
