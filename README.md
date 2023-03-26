@@ -1,3 +1,4 @@
+markdown: kramdown
 ### Hi there 👋
 
 Email: kevinbunel@gmail.com
