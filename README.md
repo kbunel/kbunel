@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![Kbunel's github stats](https://github-readme-stats.vercel.app/api?username=kbunel&count_private=true&show_icons=true&theme=radical)
-
 Email: kevinbunel@gmail.com
 
 ![](https://komarev.com/ghpvc/?username=kbunel&color=0e75b6&style=for-the-badge)
@@ -18,12 +16,14 @@ Email: kevinbunel@gmail.com
 ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Nginx](https://img.shields.io/badge/ttttt-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kbunel&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![Kbunel's github stats](https://github-readme-stats.vercel.app/api?username=kbunel&include_all_commits=true&count_private=true&show_icons=true&theme=radical)
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kbunel&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kbunel&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
